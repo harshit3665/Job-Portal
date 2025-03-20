@@ -4,7 +4,7 @@ import AppLayout from "./Layout/App-Layout";
 
 import { ThemeProvider } from "./components/ui/theme-provider"
 
-import Landing from "./pages/landing";
+import Landing from "./pages/Landing";
 import ProtectedRoute from "./components/protected-route";
 import Onboarding from "./pages/onboarding";
 import PostJob from "./pages/PostJob";
