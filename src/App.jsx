@@ -6,7 +6,7 @@ import { ThemeProvider } from "./components/ui/theme-provider"
 
 import Landing from "./pages/Landing";
 import ProtectedRoute from "./components/protected-route";
-import Onboarding from "./pages/onboarding";
+import Onboarding from "./pages/Onboarding";
 import PostJob from "./pages/PostJob";
 import JobListing from "./pages/jobListing";
 import MyJobs from "./pages/MyJob";
