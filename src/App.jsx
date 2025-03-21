@@ -8,10 +8,10 @@ import Landing from "./pages/Landing";
 import ProtectedRoute from "./components/protected-route";
 import Onboarding from "./pages/Onboarding";
 import PostJob from "./pages/PostJob";
-import JobListing from "./pages/jobListing";
+import JobListing from "./pages/JobListing";
 import MyJobs from "./pages/MyJob";
 import SavedJobs from "./pages/SaveJob";
-import Job from "./pages/job";
+import Job from "./pages/Job";
 
 import "./App.css";
 
